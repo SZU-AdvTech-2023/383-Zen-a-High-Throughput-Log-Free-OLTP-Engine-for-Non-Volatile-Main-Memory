@@ -1,0 +1,9 @@
+@article{REPO383,
+    author = "Liu, Gang and Chen, Leying and Chen, Shimin",
+    journal = "Proc. VLDB Endow.",
+    number = "5",
+    pages = "835¨C848",
+    title = "{Zen: A High-Throughput Log-Free OLTP Engine for Non-Volatile Main Memory}",
+    volume = "14",
+    year = "2021"
+}
